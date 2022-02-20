@@ -1,0 +1,11 @@
+// selectores in http://automationpractice.com
+selector of the "search box" -class=".search_query.form-control ac_input", id="#search_query_top"
+selector of the "search button" - class=".btn.btn-default.button-search",
+selector of the "'women' tab" - class=".sf-with-ul"
+selector of the "'sign in' button" - class=".header_user_info"
+selector of the "breadcrumb"- id="#slider_row"
+selector of the "'best sallers' button" -id="#blockbestsellers"
+selector of the "logo"-class=".logo.img-responsive"
+selector of the "top menu"- id="#block_top_menu"
+selector of the "bottom field" class=".footer-container"
+selector of the "breadcrumb"- class=".breadcrumb.clearfix"
